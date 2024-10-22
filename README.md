@@ -1,9 +1,13 @@
-## Welcome to the Minimal Starter Kit for Contento
+# Contento Minimal Starter Kit
 
 This is a minimal starter kit that has a page builder template, header and footer navs and a basic collection of
 composable content blocks. It’s designed to get you started using Contento, and is built with a familiar and popular
 tech stack ([Next.js](https://nextjs.org) & [Tailwind CSS](https://tailwindcss.com)).
 
+👉 [View Demo](https://minimal-contento-starter.vercel.app/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☯️ [Contento Library Site](https://app.contento.io/library/site-starters?kit=s_01hnaA9sp717eRegc8cx32nTn2)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 [User Guide](https://www.contento.io/docs/guides/starter-kits/minimal)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Contento Docs](https://www.contento.io/docs)
 
 ## Getting Started
 
